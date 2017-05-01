@@ -1,0 +1,1 @@
+SetAppIcon can be used to replace the primary icon of a Windows Portable Executable with a custom one.
